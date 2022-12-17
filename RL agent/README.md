@@ -41,6 +41,7 @@ print(next_state)
 print(reward)
 ```
 
-## Important Notes
- - In the grid world the origin is at the top left corner and the coordinates are specified as (y,x) and not (x,y).
- - You should not make any changes to `gridworld.py`
+## Running the code
+the main file to be run is the agent.py file.
+solver.py contains the code for the q-learning algrithm.
+visualiser.py contains the code needed to visualise the grid and the optimal path
