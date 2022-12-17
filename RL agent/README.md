@@ -42,6 +42,6 @@ print(reward)
 ```
 
 ## Running the code
-the main file to be run is the agent.py file.
-solver.py contains the code for the q-learning algrithm.
+The main file to be run is the agent.py file.
+solver.py contains the code for the q-learning algorithm.
 visualiser.py contains the code needed to visualise the grid and the optimal path
